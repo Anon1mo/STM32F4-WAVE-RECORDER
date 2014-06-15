@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.8.3 -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -Wall -g -nostartfiles -Map=DevKit407_AudioSpectrumAnalyzer.map -O0 --gc-sections -lm -lgcc -lc -LC:\CooCox\CoIDE\configuration\ProgramData\STM32F4 Wave Recorder -TC:\CooCox\CoIDE\configuration\ProgramData\STM32F4 Wave Recorder/arm-gcc-link.ld -g -L..\..\.. -lpdmfilter_gcc">
+      <target file="DevKit407_AudioSpectrumAnalyzer.elf" lastModified="146a0eb5e09">
+         <source file="..\obj\stm32f4xx_syscfg.o" lastModified="146a0eab574"/>
+         <source file="..\obj\usb_core.o" lastModified="146a0eab661"/>
+         <source file="..\obj\stm32f4_discovery_lcd.o" lastModified="146a0eab772"/>
+         <source file="..\obj\arm_cfft_radix4_f32.o" lastModified="146a0eab815"/>
+         <source file="..\obj\usbd_usr.o" lastModified="146a0eab890"/>
+         <source file="..\obj\arm_common_tables.o" lastModified="146a0eab8f9"/>
+         <source file="..\obj\arm_rfft_f32.o" lastModified="146a0eab96e"/>
+         <source file="..\obj\stm32f4xx_usart.o" lastModified="146a0eaba20"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="146a0eaba74"/>
+         <source file="..\obj\stm32f4_discovery.o" lastModified="146a0eabaff"/>
+         <source file="..\obj\stm32f4xx_crc.o" lastModified="146a0eabb88"/>
+         <source file="..\obj\usbd_core.o" lastModified="146a0eabc39"/>
+         <source file="..\obj\main.o" lastModified="146a0eabf15"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="146a0eabfdb"/>
+         <source file="..\obj\arm_rfft_init_f32.o" lastModified="146a0eac0ad"/>
+         <source file="..\obj\stm32f4xx_it.o" lastModified="146a0eac153"/>
+         <source file="..\obj\fonts.o" lastModified="146a0eac1ca"/>
+         <source file="..\obj\arm_cmplx_mag_f32.o" lastModified="146a0eac242"/>
+         <source file="..\obj\usbd_desc.o" lastModified="146a0eac2c6"/>
+         <source file="..\obj\stm32f4xx_fsmc.o" lastModified="146a0eac360"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="146a0eac3e7"/>
+         <source file="..\obj\usbd_cdc_vcp.o" lastModified="146a0eac46d"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="146a0eac4e3"/>
+         <source file="..\obj\syscalls.o" lastModified="146a0eac544"/>
+         <source file="..\obj\stm32f4xx_dma.o" lastModified="146a0eac5d7"/>
+         <source file="..\obj\usb_bsp.o" lastModified="146a0eac663"/>
+         <source file="..\obj\usbd_req.o" lastModified="146a0eac70b"/>
+         <source file="..\obj\usb_dcd_int.o" lastModified="146a0eac7b8"/>
+         <source file="..\obj\usbd_cdc_core.o" lastModified="146a0eac851"/>
+         <source file="..\obj\stm32f4xx_spi.o" lastModified="146a0eac8e9"/>
+         <source file="..\obj\stm32f4xx_exti.o" lastModified="146a0eac968"/>
+         <source file="..\obj\misc.o" lastModified="146a0eac9de"/>
+         <source file="..\obj\usb_dcd.o" lastModified="146a0eaca77"/>
+         <source file="..\obj\usbd_ioreq.o" lastModified="146a0eacaf8"/>
+         <source file="..\obj\arm_max_f32.o" lastModified="146a0eacb60"/>
+         <source file="..\obj\arm_cfft_radix4_init_f32.o" lastModified="146a0eacbfe"/>
+      </target>
+   </processor>
+</history>
