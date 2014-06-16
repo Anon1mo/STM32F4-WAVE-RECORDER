@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F407VG -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -DARM_MATH_CM4 -D__FPU_USED -D__FPU_PRESENT=1 -DHSE_VALUE=8000000 -ID:\STUDIA\_2 ROK\SEM IV\[PTM] PODSTAWY TECHNIK MIKROPROCESOROWYCH\DevKit407_AudioSpectrumAnalyzer -ID:\STUDIA\_2 ROK\SEM IV\[PTM] PODSTAWY TECHNIK MIKROPROCESOROWYCH\DevKit407_AudioSpectrumAnalyzer\cmsis_lib\include -ID:\STUDIA\_2 ROK\SEM IV\[PTM] PODSTAWY TECHNIK MIKROPROCESOROWYCH -ID:\STUDIA\_2 ROK\SEM IV\[PTM] PODSTAWY TECHNIK MIKROPROCESOROWYCH\DevKit407_AudioSpectrumAnalyzer\cmsis_lib -ID:\STUDIA\_2 ROK\SEM IV -ID:\STUDIA\_2 ROK\SEM IV\[PTM] PODSTAWY TECHNIK MIKROPROCESOROWYCH\DevKit407_AudioSpectrumAnalyzer\cmsis_boot -ID:\STUDIA\_2 ROK\SEM IV\[PTM] PODSTAWY TECHNIK MIKROPROCESOROWYCH\DevKit407_AudioSpectrumAnalyzer\DevKit407 -ID:\STUDIA\_2 ROK\SEM IV\[PTM] PODSTAWY TECHNIK MIKROPROCESOROWYCH\DevKit407_AudioSpectrumAnalyzer\cmsis">
+      <target file="stm32f4xx_exti.o" lastModified="145f2318dbe">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_exti.c" lastModified="141d6dc0730"/>
+      </target>
+      <target file="stm32f4xx_gpio.o" lastModified="145f2318ccf">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="141d6dbf790"/>
+      </target>
+      <target file="arm_cmplx_mag_f32.o" lastModified="145f2318c3c">
+         <source file="..\..\..\DSP\ComplexMathFunctions\arm_cmplx_mag_f32.c" lastModified="131655db7d0"/>
+      </target>
+      <target file="fonts.o" lastModified="145f2318c08">
+         <source file="..\..\..\DevKit407\fonts.c" lastModified="1398a9b9e10"/>
+      </target>
+      <target file="stm32f4_discovery_lcd.o" lastModified="145f23188f5">
+         <source file="..\..\..\DevKit407\stm32f4_discovery_lcd.c" lastModified="141d182cbc0"/>
+      </target>
+      <target file="arm_rfft_init_f32.o" lastModified="145f2318b9c">
+         <source file="..\..\..\DSP\TransformFunctions\arm_rfft_init_f32.c" lastModified="131655db7d0"/>
+      </target>
+      <target file="stm32f4xx_syscfg.o" lastModified="145f231885a">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_syscfg.c" lastModified="141d6df6a60"/>
+      </target>
+      <target file="startup_stm32f4xx.o" lastModified="145f23189e5">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="141d6e25860"/>
+      </target>
+      <target file="system_stm32f4xx.o" lastModified="145f2318d09">
+         <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="141d5892930"/>
+      </target>
+      <target file="stm32f4_discovery.o" lastModified="145f2318a20">
+         <source file="..\..\..\DevKit407\stm32f4_discovery.c" lastModified="140d56f2630"/>
+      </target>
+      <target file="misc.o" lastModified="145f2318df7">
+         <source file="..\..\..\cmsis_lib\source\misc.c" lastModified="141d6df6a60"/>
+      </target>
+      <target file="arm_common_tables.o" lastModified="145f231898b">
+         <source file="..\..\..\DSP\CommonTables\arm_common_tables.c" lastModified="131655db7d0"/>
+      </target>
+      <target file="arm_cfft_radix4_f32.o" lastModified="145f231894a">
+         <source file="..\..\..\DSP\TransformFunctions\arm_cfft_radix4_f32.c" lastModified="131655db7d0"/>
+      </target>
+      <target file="stm32f4xx_spi.o" lastModified="145f2318d84">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_spi.c" lastModified="141d6dc0f00"/>
+      </target>
+      <target file="stm32f4xx_it.o" lastModified="145f2318bd4">
+         <source file="..\..\..\stm32f4xx_it.c" lastModified="141d57f9410"/>
+      </target>
+      <target file="stm32f4xx_crc.o" lastModified="145f2318a57">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_crc.c" lastModified="141d6dbefc0"/>
+      </target>
+      <target file="stm32f4xx_rcc.o" lastModified="145f2318b35">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="141d6dbe020"/>
+      </target>
+      <target file="arm_rfft_f32.o" lastModified="145f23189c3">
+         <source file="..\..\..\DSP\TransformFunctions\arm_rfft_f32.c" lastModified="131655db7d0"/>
+      </target>
+      <target file="arm_max_f32.o" lastModified="145f2318e27">
+         <source file="..\..\..\DSP\StatisticsFunctions\arm_max_f32.c" lastModified="131655db7d0"/>
+      </target>
+      <target file="syscalls.o" lastModified="145f2318d35">
+         <source file="..\..\..\syscalls\syscalls.c" lastModified="141d6df0ca0"/>
+      </target>
+      <target file="stm32f4xx_fsmc.o" lastModified="145f2318c8c">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_fsmc.c" lastModified="141d6df7a00"/>
+      </target>
+      <target file="arm_cfft_radix4_init_f32.o" lastModified="145f2318e74">
+         <source file="..\..\..\DSP\TransformFunctions\arm_cfft_radix4_init_f32.c" lastModified="131655db7d0"/>
+      </target>
+      <target file="main.o" lastModified="145f2318ad8">
+         <source file="..\..\..\main.c" lastModified="145f23043ec"/>
+      </target>
+   </processor>
+</history>
