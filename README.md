@@ -15,7 +15,7 @@ STM32F4-WAVE-RECORDER
   CooCox CoIDE (http://www.coocox.org/Downloads.htm)
   [ST-LINK/V2 in-circuit debugger/programmer](http://www.st.com/web/catalog/tools/FM146/CL1984/SC724/SS1677/PF251168).
   [Virtual Com Port driver](http://www.st.com/web/en/catalog/tools/PF257938) so you can talk to your STM32F4 once you      load this project.
-  The C# program, which you can download from the site of our project in GitHub ( https://github.com/Anon1mo/STM32F4        -WAVE-RECORDER )
+  The C# program, which you can download from the site of our project in GitHub ( https://github.com/Anon1mo/STM32F4        -WAVE-RECORDER ) - alternative link: https://www.sendspace.com/file/mtz6x0
  
  What it does:
  ------------
@@ -29,3 +29,4 @@ STM32F4-WAVE-RECORDER
  Information
  -----------
  If you have any questions, feel free to ask and send me an email lotropj@gmail.com
+ Presentation about the project (in polish language) - https://www.sendspace.com/file/cynm06
