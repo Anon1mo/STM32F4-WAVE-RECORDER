@@ -15,7 +15,7 @@ STM32F4-WAVE-RECORDER
   CooCox CoIDE (http://www.coocox.org/Downloads.htm)
   [ST-LINK/V2 in-circuit debugger/programmer](http://www.st.com/web/catalog/tools/FM146/CL1984/SC724/SS1677/PF251168).
   [Virtual Com Port driver](http://www.st.com/web/en/catalog/tools/PF257938) so you can talk to your STM32F4 once you      load this project.
-  The C# program, which you can download from the site of our project in Github                                            https://github.com/Anon1mo/STM32F4-WAVE-RECORDER ) - alternative link: https://www.sendspace.com/file/mtz6x0
+  The C# program, which you can download from the site of our project in Github                                            https://github.com/Anon1mo/STM32F4-WAVE-RECORDER ) - alternative link: https://www.dropbox.com/s/5846ohx5ultw56b/SerialPortTerminal.zip?dl=0
  
  What it does:
  ------------
