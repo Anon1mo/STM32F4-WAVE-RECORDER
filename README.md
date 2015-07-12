@@ -28,5 +28,5 @@ STM32F4-WAVE-RECORDER
  Connect STM32F4 Discovery to your computer via USB and use micro-USB->USB cable to connect it to the computer from the  other side(it will create COM port). Download the program from CooCox to your board. If everything is initialized successfully, the two diodes will start shining. Then you need to press the USER BUTTON on your board. If you do it, you can move to C# application, open COM port(it will automatically detect the settings), name a file and click 'Record'. The recording has started and the green diode will shine. If you want to end the recording then press the USER BUTTON. All diodes will shine for a second and then they will be turned off. You'll get a piece of information in the application that the recording has ended. Now you can play the recorded sound.
  Information
  -----------
- If you have any questions, feel free to ask and send me an email lotropj@gmail.com
+ If you have any questions, feel free to ask and send me an email.
  Presentation about the project (in polish language) - https://www.sendspace.com/file/cynm06
